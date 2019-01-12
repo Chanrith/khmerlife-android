@@ -1,0 +1,10 @@
+{
+    "generationTool": "pwabuilder-api",
+    "generationToolVersion": "2.0.1-rc.0",
+    "platformId": "cordova",
+    "platformPackage": "pwabuilder-cordova",
+    "platformVersion": "2.0.0-rc.1",
+    "generatedFrom": "Website Wizard",
+    "generationDate": "2019-01-04 04:47:12 Z",
+    "generatedURL": "https://x9a2t6s5.stackpathcdn.com/superpwa-manifest.json"
+}

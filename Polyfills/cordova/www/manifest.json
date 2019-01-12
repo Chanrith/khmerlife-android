@@ -1,0 +1,23 @@
+{
+    "name": "KhmerLife",
+    "short_name": "KhmerLife",
+    "description": "A Cambodian Community For Today's Generation",
+    "icons": [
+        {
+            "src": "https://khmerlife.com/wp-content/uploads/2019/01/kl-logo-app-icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://khmerlife.com/wp-content/uploads/2019/01/kl-logo-splash-screen.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "display": "standalone",
+    "orientation": "portrait",
+    "start_url": "https://khmerlife.com/?utm_source=superpwa",
+    "scope": "/"
+}
